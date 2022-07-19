@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "jenkins": "^0.28.1"
+  }
+}
